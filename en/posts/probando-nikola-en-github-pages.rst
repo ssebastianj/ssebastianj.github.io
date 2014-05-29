@@ -12,3 +12,5 @@ Objetivos:
 
 - Probar `Nikola <https://github.com/getnikola/nikola>`_ (*metiendo mano*).
 - Practicar `reStructuredText <https://en.wikipedia.org/wiki/ReStructuredText>`_ y `Markdown <https://en.wikipedia.org/wiki/Markdown>`_  (a ver si consigo que mi documentación quede más `emperifollada <http://www.wordreference.com/sinonimos/emperifollado>`_)
+
+Para escribir/editar los posts estoy usando `Sublime Text 3 Beta <http://www.sublimetext.com/3>`_ junto con el plugin `Restructured Text (RST) Snippets <https://github.com/mgaitan/sublime-rst-completion>`_.
