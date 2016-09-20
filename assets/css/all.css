@@ -661,5 +661,10 @@ article.post-micro {
 }
 
 .panel .fa {
-    color: #828282;
+    color: #464545;
+}
+
+.panel-footer a {
+    color: #024e90;
+    font-size: 90%;
 }
