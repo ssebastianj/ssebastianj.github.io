@@ -1,2 +1,4 @@
-Sitemap: http://ssebastianj.github.io/sitemapindex.xml
+Sitemap: https://ssebastianj.github.io/sitemapindex.xml
 
+User-Agent: *
+Host: ssebastianj.github.io
