@@ -33,9 +33,9 @@
             </div>
           </div>
           <div class="panel-footer">
-            • <a href="/archive.html" title="Archivo">Archivo</a>
-            • <a href="/categories/" title="Etiquetas">Etiquetas</a>
-            • <a href="/rss.xml" title="Suscribete vía RSS">RSS</a>
+            • <a href="/blog/archive.html" title="Archivo">Archivo</a>
+            • <a href="/blog/categories/" title="Etiquetas">Etiquetas</a>
+            • <a href="/blog/rss.xml" title="Suscribete vía RSS">RSS</a>
           </div>
         <!-- /Panel Blog -->
       </div>
@@ -74,8 +74,8 @@
           </div>
           <div class="panel-footer">
             • <a href="https://www.linkedin.com/in/ssebastianj" title="LinkedIn: Donde publico mi CV">LinkedIn</a>
-            • <a href="https://medium.com/@ssebastianj" title="Medium: Donde lo que escribo se ve lindo">Medium</a>
-            • <a href="https://www.instagram.com/ssebastianj_/" title="Instagram: Donde van las fotos con filtros">Instagram</a>
+            • <a href="https://medium.com/@ssebastianj" title="Medium: Donde escribo texto con formato moderno">Medium</a>
+            • <a href="https://www.instagram.com/ssebastianj_/" title="Instagram: Donde publico las fotos con filtros">Instagram</a>
           </div>
         </div>
         <!-- /Panel Me Around The Interwebs -->          
