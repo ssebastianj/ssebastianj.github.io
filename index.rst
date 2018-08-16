@@ -1,10 +1,10 @@
-.. title: Sebastián J. Seba
+.. title: Sebastián Seba
 .. slug: index
 .. date: 2018-05-18 00:00:00 UTC-03:00
 .. tags:
 .. category:
 .. link:
-.. description: Sebastián J. Seba's home index
+.. description: Sebastián Seba's home index
 .. type: text
 .. hidetitle: True
 .. nocomments: True
