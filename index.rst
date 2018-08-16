@@ -4,7 +4,7 @@
 .. tags:
 .. category:
 .. link:
-.. description: Sebastián Seba's home index
+.. description: Sebastián Seba's site
 .. type: text
 .. hidetitle: True
 .. nocomments: True
