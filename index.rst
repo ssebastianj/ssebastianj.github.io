@@ -26,19 +26,19 @@
                     <span class="fa-li">
                         <i class="fa fa-github"></i>
                     </span>
-                    <a href="https://github.com/ssebastianj" rel="noopener" title="GitHub"><strong>GitHub</strong></a>
+                    <a href="https://github.com/ssebastianj" rel="noopener noreferrer" title="GitHub"><strong>GitHub</strong></a>
                 </li>
                 <li>
                     <span class="fa-li">
                         <i class="fa fa-twitter"></i>
                     </span>
-                    <a href="https://twitter.com/ssebastianj" rel="noopener" title="Twitter"><strong>Twitter</strong></a>
+                    <a href="https://twitter.com/ssebastianj" rel="noopener noreferrer" title="Twitter"><strong>Twitter</strong></a>
                 </li>
                 <li>
-                    <a href="https://www.linkedin.com/in/ssebastianj" rel="noopener" title="LinkedIn">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/ssebastianj" rel="noopener noreferrer" title="LinkedIn">LinkedIn</a>
                 </li>
                 <li>
-                    <a href="https://medium.com/@ssebastianj" rel="noopener" title="Medium:">Medium</a>
+                    <a href="https://medium.com/@ssebastianj" rel="noopener noreferrer" title="Medium">Medium</a>
                 </li>
               </ul>
           </div>
