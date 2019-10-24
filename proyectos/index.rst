@@ -4,8 +4,10 @@
 .. tags:
 .. category:
 .. link:
-.. description:
+.. description: Proyectos
 .. type: text
+.. nocomments: True
+
 
 Mi perfil en GitHub_ es un comienzo para ver en los proyectos en los que fui o soy parte.
 
