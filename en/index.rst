@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col-md-12 col-md-offset-3">
                 <div class="row">
-                    <div class="col-md-6 col-md-offset-3">
+                    <div class="col-md-4 col-md-offset-2">
                         <!-- Panel Blog -->
                         <div class="panel panel-default">
                             <div class="panel-body"></div>
@@ -78,7 +78,7 @@
                                         <a
                                             href="/reading"
                                             title="Reading"
-                                            ><strong>Reading</strong></a
+                                            >Reading</a
                                         >
                                     </li>
                                 </ul>
