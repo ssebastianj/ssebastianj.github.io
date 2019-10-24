@@ -65,6 +65,8 @@ Bibliografía:
    2 <https://www.amazon.com/dp/9504913423>`__ - Felipe Pigna
 -  `Los años peronistas (1943-1955): Nueva Historia Argentina Tomo
    VIII <https://www.amazon.com/dp/B00O2DEJN0>`__ - Juan Carlos Torre
+- `Hamlet <https://www.amazon.com/dp/1980760071>`__ - William Shakespeare
+- `El Mercader de Venecia <https://www.amazon.com/dp/1420953362>`__ - William Shakespeare
 -  `La Odisea <https://www.amazon.com/dp/B0078PHP8A>`__ - Homero
 -  `La Ilíada <https://www.amazon.com/dp/0140275363>`__ - Homero
 -  `Edipo Rey <https://www.amazon.com/dp/1535119454>`__ - Sófocles
