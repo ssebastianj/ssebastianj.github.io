@@ -94,6 +94,26 @@ Bibliografía:
    <https://www.amazon.com/dp/0307475719>`__ - Gabriel García Marquez
 -  `El amor en los tiempos del cólera
    <https://www.amazon.com/dp/607075767X>`__ - Gabriel García Marquez
+-  `El lobo estepario <https://www.amazon.com/dp/0312278675>`__ - Hermann Hesse
+-  `Cual plaga de langosta
+   <https://www.amazon.es/dp/B00H9HD9KK>`__ - Frederik Pohl
+-  `El retrato del Barón Negay
+   <https://www.amazon.es/dp/B00H9HD9KK>`__ - Barry Longyear
+-  `El titánico símbolo de Titán
+   <https://www.amazon.es/dp/B00H9HD9KK>`__ - Martin Gardner
+-  `Basura <https://www.amazon.es/dp/B00H9HD9KK>`__ - K. J. Snow
+-  `Viajes` - Carter Scholz
+-  `Chaplin <https://www.amazon.com/dp/8434581736>`__ - Wolfram Tichy
+-  `Robinson Crusoe <https://www.amazon.com/dp/B004UJ7VJU>`__ - Daniel Defoe
+-  `Las Aventuras de Huckleberry Finn
+   <https://www.amazon.com/dp/0486280616>`__ - Mark Twain
+-  `El último de los mohicanos
+   <https://www.amazon.com/dp/1681777738>`__ - James Fenimore Cooper
+-  `This Side of Paradise
+   <https://www.amazon.com/dp/1514650363>`__ - F. Scott Fitzgerald
+-  `Ivanhoe <https://www.amazon.com/dp/1981182659>`__ - Walter Scott
+-  `La Flecha Negra <https://www.amazon.com/dp/B0082ZJOYS>`__ - R. L. Stevenson
+-  `Moby Dick <https://www.amazon.com/dp/1371581363>`__ - Herman Melville
 -  `Learning from Las Vegas (Revised Edition)
    <https://www.amazon.com/dp/026272006X>`__ - Robert Venturi, Denise Scott Brown,
    Steven Izenour
@@ -101,8 +121,8 @@ Bibliografía:
    <https://www.amazon.com/dp/9879637011>`__ - Lazlo Moholy-Nagy
 -  `Instalaciones eléctricas
    <https://www.amazon.com/dp/9505532628>`__ - Marcelo Sobrevila
--  `Selección de Circuitos, Recepción, Amplificación, Televisión (4a.
-   Edición)` - R. Vodovosoff
+-  `Selección de Circuitos, Recepción, Amplificación, Televisión
+   (4a. Edición)` - R. Vodovosoff
 -  `Java, Cómo programar (7a. Edición)
    <https://www.amazon.com/dp/9702611903>`__ - Deitel & Deitel
 -  `Curso de Programación C#
