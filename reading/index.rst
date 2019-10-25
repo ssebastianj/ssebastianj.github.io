@@ -56,6 +56,7 @@ Bibliografía:
    <https://www.amazon.com/dp/9504913423>`__ - Felipe Pigna
 -  `Los años peronistas (1943-1955): Nueva Historia Argentina Tomo VIII
    <https://www.amazon.com/dp/B00O2DEJN0>`__ - Juan Carlos Torre
+-  `La Argentina <https://www.amazon.com/dp/9500418886>`__ - Ruy Díaz de Guzman
 - `Hamlet <https://www.amazon.com/dp/1980760071>`__ - William Shakespeare
 - `El Mercader de Venecia
   <https://www.amazon.com/dp/1420953362>`__ - William Shakespeare
@@ -76,13 +77,17 @@ Bibliografía:
 -  `Bestiario <https://www.amazon.com/dp/8466331840>`__ - Julio Cortázar
 -  `Rayuela <https://www.amazon.com/dp/B01FV29V6U>`__ - Julio Cortázar
 -  `El Aleph <https://www.amazon.com/dp/0142437883>`__ - Jorge Luis Borges
+-  `Shunko <https://www.amazon.com/dp/9500396734>`__ - Jorge Abalos
 -  `Cuentos Completos 1 <https://www.amazon.com/dp/B0786WJT1K>`__ - Julio Cortázar
 -  `Dickens <https://www.amazon.com/dp/B00CSTV9T2>`__ - J. B. Priestley
 -  `La Casa de Pensión <https://www.amazon.com/dp/1502512564>`__ - Charles Dickens
 -  `El Escarabajo de Oro <https://www.amazon.com/dp/1536831417>`__ - Edgar Allan Poe
 -  `El Silencio Blanco <https://www.amazon.com/dp/B00113CMMY>`__ - Jack London
+-  `La llamada de la selva <https://www.amazon.com/dp/1948132273>`__ - Jack London
 -  `La Dama del Perrito <https://www.amazon.com/dp/B00XA72SJQ>`__ - Antón Chéjov
 -  `Rikki Tikki Tavi <https://www.amazon.com/dp/1986873714>`__ - Ruyard Kipling
+-  `El libro de las tierras vírgenes
+   <https://www.amazon.com/dp/B07QWHX93S>`__ - Ruyard Kipling
 -  `La hojarasca <https://www.amazon.com/dp/968131588X>`__ - Gabriel García Marquez
 -  `El coronel no tiene quien le escriba
    <https://www.amazon.com/dp/0307475441>`__ - Gabriel García Marquez
@@ -107,6 +112,7 @@ Bibliografía:
 -  `Robinson Crusoe <https://www.amazon.com/dp/B004UJ7VJU>`__ - Daniel Defoe
 -  `Las Aventuras de Huckleberry Finn
    <https://www.amazon.com/dp/0486280616>`__ - Mark Twain
+-  `El arca de Noé inspeccionada en un puerto alemán` - Mark Twain
 -  `El último de los mohicanos
    <https://www.amazon.com/dp/1681777738>`__ - James Fenimore Cooper
 -  `This Side of Paradise
@@ -114,6 +120,13 @@ Bibliografía:
 -  `Ivanhoe <https://www.amazon.com/dp/1981182659>`__ - Walter Scott
 -  `La Flecha Negra <https://www.amazon.com/dp/B0082ZJOYS>`__ - R. L. Stevenson
 -  `Moby Dick <https://www.amazon.com/dp/1371581363>`__ - Herman Melville
+-  `Las Mil y Una Noches <https://www.amazon.com/dp/0241382718>`__ - Anónimo
+-  `El Príncipe Feliz y Otros Cuentos
+   <https://www.amazon.com/dp/150982782X>`__ - Oscar Wilde
+-  `La Edad de Oro <https://www.amazon.com/dp/3849527735>`__ - Jose Martí
+-  `El Corsario Negro <https://www.amazon.com/dp/1987886429>`__ - Emilio Salgari
+-  `La Palabra Clave <https://www.amazon.com/dp/8473861833>`__ - Isaac Asimov
+-  `Una mesa es una mesa` - Peter Bichsel
 -  `Learning from Las Vegas (Revised Edition)
    <https://www.amazon.com/dp/026272006X>`__ - Robert Venturi, Denise Scott Brown,
    Steven Izenour
