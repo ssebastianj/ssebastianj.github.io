@@ -11,7 +11,8 @@
 
 Mi perfil en GitHub_ es un comienzo para ver en los proyectos en los que fui o soy parte.
 
-En Twitter_ suelo compartir sobre temas que aprendí en el día o semana. Los identifico con las palabras |TILabbr|, |YILabbr| o |TWILabbr|.
+En Twitter_ suelo compartir sobre temas que aprendí en el día o semana.
+Los identifico con las palabras |TILabbr|, |YILabbr| o |TWILabbr|.
 
 .. _GitHub: https://github.com/ssebastianj
 .. _Twitter: https://twitter.com/ssebastianj
