@@ -114,6 +114,8 @@ Bibliografía:
 -  `Robinson Crusoe <https://www.amazon.com/dp/B004UJ7VJU>`__ - Daniel Defoe
 -  `Las Aventuras de Huckleberry Finn
    <https://www.amazon.com/dp/0486280616>`__ - Mark Twain
+-  `Las Aventuras de Tom Sawyer
+   <https://www.amazon.com/dp/1514682052>`__ - Mark Twain
 -  `El arca de Noé inspeccionada en un puerto alemán` - Mark Twain
 -  `El último de los mohicanos
    <https://www.amazon.com/dp/1681777738>`__ - James Fenimore Cooper
