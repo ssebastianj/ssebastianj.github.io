@@ -84,7 +84,7 @@ Bibliografía:
 -  `La Dama del Perrito <https://www.amazon.com/dp/B00XA72SJQ>`__ - Antón Chéjov
 -  `Rikki Tikki Tavi <https://www.amazon.com/dp/1986873714>`__ - Ruyard Kipling
 -  `La hojarasca <https://www.amazon.com/dp/968131588X>`__ - Gabriel García Marquez
--  `El coronel no tiene quien le escribe
+-  `El coronel no tiene quien le escriba
    <https://www.amazon.com/dp/0307475441>`__ - Gabriel García Marquez
 -  `Crónica de una muerte anunciada
    <https://www.amazon.com/dp/1400034957>`__ - Gabriel García Marquez
