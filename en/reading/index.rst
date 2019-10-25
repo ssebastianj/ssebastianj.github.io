@@ -81,6 +81,8 @@ Bibliografía:
 -  `Cuentos Completos 1 <https://www.amazon.com/dp/B0786WJT1K>`__ - Julio Cortázar
 -  `Dickens <https://www.amazon.com/dp/B00CSTV9T2>`__ - J. B. Priestley
 -  `La Casa de Pensión <https://www.amazon.com/dp/1502512564>`__ - Charles Dickens
+-  `Oliver Twist <https://www.amazon.com/dp/1514640376>`__ - Charles Dickens
+-  `David Copperfield <https://www.amazon.com/dp/1509825398>`__ - Charles Dickens
 -  `El Escarabajo de Oro <https://www.amazon.com/dp/1536831417>`__ - Edgar Allan Poe
 -  `El Silencio Blanco <https://www.amazon.com/dp/B00113CMMY>`__ - Jack London
 -  `La llamada de la selva <https://www.amazon.com/dp/1948132273>`__ - Jack London
