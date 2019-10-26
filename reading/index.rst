@@ -74,12 +74,22 @@ Bibliografía:
    <https://www.amazon.com/dp/0156012197>`__ - Antoine de Saint-Exupéry
 -  `El Proceso <https://www.amazon.com/dp/1542419476>`__ - Franz Kafka
 -  `La Metamorfosis <https://www.amazon.com/dp/B002PYFWC0>`__ - Franz Kafka
+-  `Ante la Ley <https://www.amazon.com/dp/0805210555>`__ - Franz Kafka
+-  `El capote <https://www.amazon.com/dp/190982903X>`__ - Nikolai Gogol
+-  `La muerte del delfín
+   <https://www.amazon.com/dp/1360188622>`__ - Alphonse Daudet
+-  `Noches Blancas <https://www.amazon.com/dp/B01MD021DK>`__ - Fiedor Dostoievski
 -  `Bestiario <https://www.amazon.com/dp/8466331840>`__ - Julio Cortázar
 -  `Rayuela <https://www.amazon.com/dp/B01FV29V6U>`__ - Julio Cortázar
 -  `El Aleph <https://www.amazon.com/dp/0142437883>`__ - Jorge Luis Borges
 -  `Fundación mítica de Buenos Aires` - Jorge Luis Borges
+-  `El Milagro Secreto
+   <https://www.amazon.com/dp/0811216993>`__ - Jorge Luis Borges
+-  `El dragón y la princesa
+   <https://www.amazon.com/dp/8420646628>`__ - Ernesto Sábato
 -  `Shunko <https://www.amazon.com/dp/9500396734>`__ - Jorge Abalos
 -  `Cuentos Completos 1 <https://www.amazon.com/dp/B0786WJT1K>`__ - Julio Cortázar
+-  `El potro salvaje <https://www.amazon.com/dp/9569274301>`__ - Horacio Quiroga
 -  `Dickens <https://www.amazon.com/dp/B00CSTV9T2>`__ - J. B. Priestley
 -  `La Casa de Pensión <https://www.amazon.com/dp/1502512564>`__ - Charles Dickens
 -  `Oliver Twist <https://www.amazon.com/dp/1514640376>`__ - Charles Dickens
@@ -87,6 +97,9 @@ Bibliografía:
 -  `El Escarabajo de Oro <https://www.amazon.com/dp/1536831417>`__ - Edgar Allan Poe
 -  `El Silencio Blanco <https://www.amazon.com/dp/B00113CMMY>`__ - Jack London
 -  `La llamada de la selva <https://www.amazon.com/dp/1948132273>`__ - Jack London
+-  `Encender un fuego <https://www.amazon.com/dp/1629101524>`__ - Jack London
+-  `La Casa de las Muñecas
+   <https://www.amazon.com/dp/0582418119>`__ - Katherine Mansfield
 -  `La Dama del Perrito <https://www.amazon.com/dp/B00XA72SJQ>`__ - Antón Chéjov
 -  `Rikki Tikki Tavi <https://www.amazon.com/dp/1986873714>`__ - Ruyard Kipling
 -  `El libro de las tierras vírgenes
@@ -125,7 +138,7 @@ Bibliografía:
 -  `Ivanhoe <https://www.amazon.com/dp/1981182659>`__ - Walter Scott
 -  `La Flecha Negra
    <https://www.amazon.com/dp/B0082ZJOYS>`__ - R. L. Stevenson
--  `El diablo en la botella
+-  `El diablillo en la botella
    <https://www.amazon.com/dp/9875506214>`__ - R. L. Stevenson
 -  `Moby Dick <https://www.amazon.com/dp/1371581363>`__ - Herman Melville
 -  `Las Mil y Una Noches <https://www.amazon.com/dp/0241382718>`__ - Anónimo
@@ -150,6 +163,12 @@ Bibliografía:
 -  `El Lazarillo de Tormes <https://www.amazon.com/dp/1451508735>`__ - Anónimo
 -  `Fernando - Un Perro de Verdad
    <https://www.amazon.com/dp/9509603198>`__ - Hugo Ditaranto
+-  `La balanza de los Balek
+   <https://www.amazon.com/dp/B01MD021DK>`__ - Heinrich Böll
+-  `Hussein el cojo <https://www.amazon.com/dp/9500353504>`__ - Roberto Arlt
+-  `Nuestra Señora de las golondrinas
+   <https://www.amazon.com/dp/2070299732>`__ - Marguerite Yourcenar
+-  `El discipulado <https://www.amazon.com/dp/B01MD021DK>`__ - Hugo Mujica
 -  `Learning from Las Vegas (Revised Edition)
    <https://www.amazon.com/dp/026272006X>`__ - Robert Venturi, Denise Scott Brown,
    Steven Izenour
