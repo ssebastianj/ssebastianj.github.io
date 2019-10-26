@@ -77,6 +77,7 @@ Bibliografía:
 -  `Bestiario <https://www.amazon.com/dp/8466331840>`__ - Julio Cortázar
 -  `Rayuela <https://www.amazon.com/dp/B01FV29V6U>`__ - Julio Cortázar
 -  `El Aleph <https://www.amazon.com/dp/0142437883>`__ - Jorge Luis Borges
+-  `Fundación mítica de Buenos Aires` - Jorge Luis Borges
 -  `Shunko <https://www.amazon.com/dp/9500396734>`__ - Jorge Abalos
 -  `Cuentos Completos 1 <https://www.amazon.com/dp/B0786WJT1K>`__ - Julio Cortázar
 -  `Dickens <https://www.amazon.com/dp/B00CSTV9T2>`__ - J. B. Priestley
@@ -122,7 +123,10 @@ Bibliografía:
 -  `This Side of Paradise
    <https://www.amazon.com/dp/1514650363>`__ - F. Scott Fitzgerald
 -  `Ivanhoe <https://www.amazon.com/dp/1981182659>`__ - Walter Scott
--  `La Flecha Negra <https://www.amazon.com/dp/B0082ZJOYS>`__ - R. L. Stevenson
+-  `La Flecha Negra
+   <https://www.amazon.com/dp/B0082ZJOYS>`__ - R. L. Stevenson
+-  `El diablo en la botella
+   <https://www.amazon.com/dp/9875506214>`__ - R. L. Stevenson
 -  `Moby Dick <https://www.amazon.com/dp/1371581363>`__ - Herman Melville
 -  `Las Mil y Una Noches <https://www.amazon.com/dp/0241382718>`__ - Anónimo
 -  `El Príncipe Feliz y Otros Cuentos
@@ -131,6 +135,21 @@ Bibliografía:
 -  `El Corsario Negro <https://www.amazon.com/dp/1987886429>`__ - Emilio Salgari
 -  `La Palabra Clave <https://www.amazon.com/dp/8473861833>`__ - Isaac Asimov
 -  `Una mesa es una mesa` - Peter Bichsel
+-  `Los Tres Electroguerreros
+   <https://www.amazon.com/dp/8308048897>`__ - Stanislaw Lem
+-  `Boroboboo <https://www.amazon.com/dp/9500511118>`__ - Marco Denevi
+-  `El cielo entre los durmientes
+   <https://www.amazon.com/dp/9876141511>`__ - Humberto Constantini
+-  `Primer amor` - Álvaro Yunque
+-  `La Sirena de la Niebla
+   <https://www.amazon.com/dp/B01FKT8F8Y>`__ - Ray Bradbury
+-  `Cohete a Marte` - Juan Enrique Acuña
+-  `La Guitarra <https://www.amazon.com/dp/0307475751>`__ - Federico García Lorca
+-  `¿Y la Luna? <https://www.amazon.com/dp/8498957664>`__ - León Felipe
+-  `Leyendas <https://www.amazon.com/dp/1511646632>`__ - Gustavo Adolfo Bécquer
+-  `El Lazarillo de Tormes <https://www.amazon.com/dp/1451508735>`__ - Anónimo
+-  `Fernando - Un Perro de Verdad
+   <https://www.amazon.com/dp/9509603198>`__ - Hugo Ditaranto
 -  `Learning from Las Vegas (Revised Edition)
    <https://www.amazon.com/dp/026272006X>`__ - Robert Venturi, Denise Scott Brown,
    Steven Izenour
