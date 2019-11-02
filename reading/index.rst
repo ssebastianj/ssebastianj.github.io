@@ -169,6 +169,7 @@ Bibliografía:
 -  `Nuestra Señora de las golondrinas
    <https://www.amazon.com/dp/2070299732>`__ - Marguerite Yourcenar
 -  `El discipulado <https://www.amazon.com/dp/B01MD021DK>`__ - Hugo Mujica
+-  `1984 <https://www.amazon.com/dp/1328869334>`__ - George Orwell
 -  `Learning from Las Vegas (Revised Edition)
    <https://www.amazon.com/dp/026272006X>`__ - Robert Venturi, Denise Scott Brown,
    Steven Izenour
