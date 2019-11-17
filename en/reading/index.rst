@@ -48,12 +48,15 @@ Bibliografía:
    <https://www.gutenberg.org/ebooks/52499>`__ - Palemón Huergo
 -  `The Argentine in the Twentieth Century
    <https://www.gutenberg.org/ebooks/45261>`__ - Lewandowski & Martínez
--  `Liberalismo, Estado y orden burgués (1852-1880): Nueva Historia Argentina Tomo IV
-   <https://www.amazon.com/dp/9500715791>`__ - Marta Bonaudo
 -  `Los Mitos de La Historia Argentina 1
    <https://www.amazon.com/dp/9875809470>`__ - Felipe Pigna
 -  `Los Mitos de La Historia Argentina 2
    <https://www.amazon.com/dp/9504913423>`__ - Felipe Pigna
+-  `Liberalismo, Estado y orden burgués (1852-1880): Nueva Historia Argentina Tomo IV
+   <https://www.amazon.com/dp/9500715791>`__ - Marta Bonaudo
+-  `Crisis económica, avance del Estado e incertidumbre política 1930-1943:
+   Nueva Historia Argentina Tomo VII <https://www.amazon.com/dp/B00NWVCWLE>`__
+   - Alejandro Cattaruzza
 -  `Los años peronistas (1943-1955): Nueva Historia Argentina Tomo VIII
    <https://www.amazon.com/dp/B00O2DEJN0>`__ - Juan Carlos Torre
 -  `La Argentina <https://www.amazon.com/dp/9500418886>`__ - Ruy Díaz de Guzman
