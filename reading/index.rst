@@ -54,7 +54,7 @@ Bibliografía:
    <https://www.amazon.com/dp/9504913423>`__ - Felipe Pigna
 -  `Liberalismo, Estado y orden burgués (1852-1880): Nueva Historia Argentina Tomo IV
    <https://www.amazon.com/dp/9500715791>`__ - Marta Bonaudo
--  `Crisis económica, avance del Estado e incertidumbre política 1930-1943:
+-  `Crisis económica, avance del Estado e incertidumbre política (1930-1943):
    Nueva Historia Argentina Tomo VII <https://www.amazon.com/dp/B00NWVCWLE>`__
    - Alejandro Cattaruzza
 -  `Los años peronistas (1943-1955): Nueva Historia Argentina Tomo VIII
