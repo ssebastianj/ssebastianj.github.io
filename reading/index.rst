@@ -60,6 +60,8 @@ Bibliografía:
 -  `Los años peronistas (1943-1955): Nueva Historia Argentina Tomo VIII
    <https://www.amazon.com/dp/B00O2DEJN0>`__ - Juan Carlos Torre
 -  `La Argentina <https://www.amazon.com/dp/9500418886>`__ - Ruy Díaz de Guzman
+-  `Tiempos Modernos - La historia del siglo XX desde 1917 hasta la década de
+   los 80 <https://www.amazon.com/dp/0060151595>`__ - Paul Johnson
 - `Hamlet <https://www.amazon.com/dp/1980760071>`__ - William Shakespeare
 - `El Mercader de Venecia
   <https://www.amazon.com/dp/1420953362>`__ - William Shakespeare
