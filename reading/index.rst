@@ -22,6 +22,24 @@ Notas:
 
 Bibliografía:
 
+-  `The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing
+   Personal <https://www.amazon.com/dp/B07GBCX7YC>`__ - M. Mitchell Waldrop
+-  `Instalaciones eléctricas
+   <https://www.amazon.com/dp/9505532628>`__ - Marcelo Sobrevila
+-  `Selección de Circuitos, Recepción, Amplificación, Televisión
+   (4a. Edición)` - R. Vodovosoff
+-  `Java, Cómo programar (7a. Edición)
+   <https://www.amazon.com/dp/9702611903>`__ - Deitel & Deitel
+-  `Curso de Programación C#
+   <https://www.amazon.com/dp/9871347766>`__ - Nicolás Arrioja Landa Cosio
+-  `Sistemas Operativos (5a. Edición)
+   <https://www.amazon.com/dp/8420544620>`__ - William Stallings
+-  `Comunicaciones y redes de computadores (7a. Edición)
+   <https://www.amazon.com/dp/8420541109>`__ - William Stallings
+-  `Redes de computadoras (4a. Edición)
+   <https://www.amazon.com/dp/9702601622>`__ - Andrew Tanenbaum
+-  `Two Scoops of Django 1.6
+   <https://www.amazon.com/dp/0981467326>`__ - D. Greenfeld & A. Roy
 -  `Escritos políticos, económicos y literarios
    <https://www.gutenberg.org/ebooks/47346>`__ - Florencio Varela
 -  `Juvenilia; Prosa Ligera
@@ -180,19 +198,3 @@ Bibliografía:
    Steven Izenour
 -  `La nueva visión - Principios básicos del Bauhaus
    <https://www.amazon.com/dp/9879637011>`__ - Lazlo Moholy-Nagy
--  `Instalaciones eléctricas
-   <https://www.amazon.com/dp/9505532628>`__ - Marcelo Sobrevila
--  `Selección de Circuitos, Recepción, Amplificación, Televisión
-   (4a. Edición)` - R. Vodovosoff
--  `Java, Cómo programar (7a. Edición)
-   <https://www.amazon.com/dp/9702611903>`__ - Deitel & Deitel
--  `Curso de Programación C#
-   <https://www.amazon.com/dp/9871347766>`__ - Nicolás Arrioja Landa Cosio
--  `Sistemas Operativos (5a. Edición)
-   <https://www.amazon.com/dp/8420544620>`__ - William Stallings
--  `Comunicaciones y redes de computadores (7a. Edición)
-   <https://www.amazon.com/dp/8420541109>`__ - William Stallings
--  `Redes de computadoras (4a. Edición)
-   <https://www.amazon.com/dp/9702601622>`__ - Andrew Tanenbaum
--  `Two Scoops of Django 1.6
-   <https://www.amazon.com/dp/0981467326>`__ - D. Greenfeld & A. Roy
