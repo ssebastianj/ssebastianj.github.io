@@ -1,6 +1,6 @@
 .. title: Reading
 .. slug: reading
-.. date: 2019-10-24 09:53:57 UTC-03:00
+.. date: 2020-01-24 09:10:00 UTC-03:00
 .. tags: reading, bookshelf, books
 .. category:
 .. link:
@@ -89,8 +89,8 @@ Bibliografía:
 - `El Mercader de Venecia
   <https://www.amazon.com/dp/1420953362>`__ - William Shakespeare
 -  `La Doma de la Furia <https://www.amazon.com/dp/074347757X>`__ - William Shakespeare
--  `La Odisea <https://www.amazon.com/dp/B0078PHP8A>`__ - Homero
--  `La Ilíada <https://www.amazon.com/dp/0140275363>`__ - Homero
+-  `La Odisea <https://www.amazon.com/dp/0393089053>`__ - Homero
+-  `La Ilíada <https://www.amazon.com/dp/0679410759>`__ - Homero
 -  `Edipo Rey <https://www.amazon.com/dp/1535119454>`__ - Sófocles
 -  `Vidas paralelas <https://www.amazon.com/dp/B00H8ZQ91Y>`__ - Plutarco
 -  `Aesop’s Fables <https://www.amazon.com/dp/B00L7YHVV4>`__ - Aesop
@@ -98,6 +98,8 @@ Bibliografía:
    <https://www.amazon.com/dp/0307475417>`__ - Miguel de Cervantes Saavedra
 -  `Walden <https://www.amazon.com/dp/0451532163>`__ - Henry David Thoreau
 -  `Candide <https://www.amazon.com/dp/B004UJGFKG>`__ - Voltaire
+-  `The Sorrows of Young Werther
+   <https://www.amazon.com/dp/1950330419>`__ - Johann Wolfgang von Goethe
 -  `El Principito
    <https://www.amazon.com/dp/0156012197>`__ - Antoine de Saint-Exupéry
 -  `El Proceso <https://www.amazon.com/dp/1542419476>`__ - Franz Kafka
