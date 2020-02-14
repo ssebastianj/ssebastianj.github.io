@@ -23,7 +23,7 @@ Notas:
 Bibliografía:
 
 -  `The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing
-   Personal <https://www.amazon.com/dp/B07GBCX7YC>`__ - M. Mitchell Waldrop
+   Personal <https://www.amazon.com/dp/1732265119>`__ - M. Mitchell Waldrop
 -  `Sistemas Operativos (5a. Edición)
    <https://www.amazon.com/dp/8420544620>`__ - William Stallings
 -  `Comunicaciones y redes de computadores (7a. Edición)
@@ -45,6 +45,7 @@ Bibliografía:
    Steven Izenour
 -  `La nueva visión - Principios básicos del Bauhaus
    <https://www.amazon.com/dp/9879637011>`__ - Lazlo Moholy-Nagy
+-  `Relationships <https://www.amazon.com/dp/B01N5B2JUJ>`__ - The School of Life
 -  `Escritos políticos, económicos y literarios
    <https://www.gutenberg.org/ebooks/47346>`__ - Florencio Varela
 -  `Juvenilia; Prosa Ligera
@@ -146,6 +147,7 @@ Bibliografía:
 -  `El amor en los tiempos del cólera
    <https://www.amazon.com/dp/607075767X>`__ - Gabriel García Marquez
 -  `El lobo estepario <https://www.amazon.com/dp/0312278675>`__ - Hermann Hesse
+-  `Bajo las ruedas <https://www.amazon.com/dp/0374110646>`__ - Hermann Hesse
 -  `Cual plaga de langosta
    <https://www.amazon.es/dp/B00H9HD9KK>`__ - Frederik Pohl
 -  `El retrato del Barón Negay
@@ -202,4 +204,3 @@ Bibliografía:
    <https://www.amazon.com/dp/2070299732>`__ - Marguerite Yourcenar
 -  `El discipulado <https://www.amazon.com/dp/B01MD021DK>`__ - Hugo Mujica
 -  `1984 <https://www.amazon.com/dp/1328869334>`__ - George Orwell
--  `Relationships <https://www.amazon.com/dp/B01N5B2JUJ>`__ - The School of Life
