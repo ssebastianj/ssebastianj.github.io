@@ -204,3 +204,5 @@ Bibliografía:
    <https://www.amazon.com/dp/2070299732>`__ - Marguerite Yourcenar
 -  `El discipulado <https://www.amazon.com/dp/B01MD021DK>`__ - Hugo Mujica
 -  `1984 <https://www.amazon.com/dp/1328869334>`__ - George Orwell
+-  `Good Strategy Bad Strategy: The Difference and Why It Matters
+   <https://www.amazon.com/dp/0307886239>`__ - Richard Rumelt
