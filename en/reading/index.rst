@@ -22,8 +22,10 @@ Notas:
 
 Bibliografía:
 
--  `The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing
-   Personal <https://www.amazon.com/dp/1732265119>`__ - M. Mitchell Waldrop
+-  `The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal
+   <https://www.amazon.com/dp/1732265119>`__ - M. Mitchell Waldrop
+-  `The Soul of A New Machine
+   <https://www.amazon.com/dp/0316491977>`__ - Tracy Kidder
 -  `Sistemas Operativos (5a. Edición)
    <https://www.amazon.com/dp/8420544620>`__ - William Stallings
 -  `Comunicaciones y redes de computadores (7a. Edición)
@@ -89,7 +91,8 @@ Bibliografía:
 - `Hamlet <https://www.amazon.com/dp/1980760071>`__ - William Shakespeare
 - `El Mercader de Venecia
   <https://www.amazon.com/dp/1420953362>`__ - William Shakespeare
--  `La Doma de la Furia <https://www.amazon.com/dp/074347757X>`__ - William Shakespeare
+-  `La Doma de la Furia
+   <https://www.amazon.com/dp/074347757X>`__ - William Shakespeare
 -  `La Odisea <https://www.amazon.com/dp/0393089053>`__ - Homero
 -  `La Ilíada <https://www.amazon.com/dp/0679410759>`__ - Homero
 -  `Edipo Rey <https://www.amazon.com/dp/1535119454>`__ - Sófocles
