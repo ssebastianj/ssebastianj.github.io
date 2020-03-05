@@ -15,7 +15,7 @@ Reading
 
 Notas:
 
-- La siguiente es una lista **incompleta** de bibliografía leída y/o
+- La siguiente es una lista parcial de bibliografía leída y/o
   consultada.
 - Algunos ítems de la lista fueron leídos de forma parcial (**LP**) y otros de
   manera completa (**LC**) (*de tapa a tapa*).
@@ -38,6 +38,8 @@ Bibliografía:
    <https://www.amazon.com/dp/9702611903>`__ - Deitel & Deitel
 -  `Curso de Programación C#
    <https://www.amazon.com/dp/9871347766>`__ - Nicolás Arrioja Landa Cosio
+-  `A Philosophy of Software Design
+   <https://www.amazon.com/dp/1732102201>`__ - John Ousterhout
 -  `Instalaciones eléctricas
    <https://www.amazon.com/dp/9505532628>`__ - Marcelo Sobrevila
 -  `Selección de Circuitos, Recepción, Amplificación, Televisión
