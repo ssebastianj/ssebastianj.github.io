@@ -82,6 +82,9 @@ Bibliografía:
    <https://www.amazon.com/dp/9504913423>`__ - Felipe Pigna
 -  `Liberalismo, Estado y orden burgués (1852-1880): Nueva Historia Argentina Tomo IV
    <https://www.amazon.com/dp/9500715791>`__ - Marta Bonaudo
+-  `Democracia, conflicto social y renovación de ideas (1916-1930):
+   Nueva Historia Argentina Tomo VI <https://www.amazon.com/dp/B00MX8EZTY>`__ -
+   Ricardo Falcón
 -  `Crisis económica, avance del Estado e incertidumbre política (1930-1943):
    Nueva Historia Argentina Tomo VII <https://www.amazon.com/dp/B00NWVCWLE>`__
    - Alejandro Cattaruzza
@@ -212,3 +215,4 @@ Bibliografía:
 -  `1984 <https://www.amazon.com/dp/1328869334>`__ - George Orwell
 -  `Good Strategy Bad Strategy
    <https://www.amazon.com/dp/0307886239>`__ - Richard Rumelt
+-  `The Stuff of Thought <https://www.amazon.com/dp/0670063274>`__ - Steven Pinker
