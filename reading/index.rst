@@ -26,6 +26,8 @@ Bibliografía:
    <https://www.amazon.com/dp/1732265119>`__ - M. Mitchell Waldrop
 -  `The Soul of A New Machine
    <https://www.amazon.com/dp/0316491977>`__ - Tracy Kidder
+-  `The Art of Doing Science and Engineering: Learning to Learn
+   <https://www.amazon.com/dp/1732265178>`__ - Richard W. Hamming
 -  `Sistemas Operativos (5a. Edición)
    <https://www.amazon.com/dp/8420544620>`__ - William Stallings
 -  `Comunicaciones y redes de computadores (7a. Edición)
