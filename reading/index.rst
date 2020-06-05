@@ -157,6 +157,8 @@ Bibliografía:
 -  `El lobo estepario <https://www.amazon.com/dp/0312278675>`__ - Hermann Hesse
 -  `Bajo las ruedas <https://www.amazon.com/dp/0374110646>`__ - Hermann Hesse
 -  `Siddhartha <https://www.amazon.com/dp/1788887948>`__ - Hermann Hesse
+-  `Demian: The Story of a Youth
+   <https://www.amazon.com/dp/1614270260>`__ - Hermann Hesse
 -  `Cual plaga de langosta
    <https://www.amazon.es/dp/B00H9HD9KK>`__ - Frederik Pohl
 -  `El retrato del Barón Negay
