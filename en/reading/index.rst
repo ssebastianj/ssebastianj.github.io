@@ -34,14 +34,14 @@ Bibliografía:
    <https://www.amazon.com/dp/8420541109>`__ - William Stallings
 -  `Redes de computadoras (4a. Edición)
    <https://www.amazon.com/dp/9702601622>`__ - Andrew Tanenbaum
+-  `A Philosophy of Software Design
+   <https://www.amazon.com/dp/1732102201>`__ - John Ousterhout
 -  `Two Scoops of Django 1.6
    <https://www.amazon.com/dp/0981467326>`__ - D. Greenfeld & A. Roy
 -  `Java, Cómo programar (7a. Edición)
    <https://www.amazon.com/dp/9702611903>`__ - Deitel & Deitel
 -  `Curso de Programación C#
    <https://www.amazon.com/dp/9871347766>`__ - Nicolás Arrioja Landa Cosio
--  `A Philosophy of Software Design
-   <https://www.amazon.com/dp/1732102201>`__ - John Ousterhout
 -  `Instalaciones eléctricas
    <https://www.amazon.com/dp/9505532628>`__ - Marcelo Sobrevila
 -  `Selección de Circuitos, Recepción, Amplificación, Televisión
@@ -217,6 +217,6 @@ Bibliografía:
    <https://www.amazon.com/dp/2070299732>`__ - Marguerite Yourcenar
 -  `El discipulado <https://www.amazon.com/dp/B01MD021DK>`__ - Hugo Mujica
 -  `1984 <https://www.amazon.com/dp/1328869334>`__ - George Orwell
+-  `The Stuff of Thought <https://www.amazon.com/dp/0670063274>`__ - Steven Pinker
 -  `Good Strategy Bad Strategy
    <https://www.amazon.com/dp/0307886239>`__ - Richard Rumelt
--  `The Stuff of Thought <https://www.amazon.com/dp/0670063274>`__ - Steven Pinker
