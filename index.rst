@@ -77,8 +77,8 @@
                                         </span>
                                         <a
                                             href="/reading"
-                                            title="Reading"
-                                            >Reading</a
+                                            title="Reading / Vitamina de letras"
+                                            >Reading / Vitamina de letras</a
                                         >
                                     </li>
                                 </ul>

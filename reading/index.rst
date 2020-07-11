@@ -9,9 +9,10 @@
 .. hidetitle: True
 .. nocomments: True
 
-=======
-Reading
-=======
+
+.. raw:: html
+
+   <h1 id="reading-list-title" class="document-title">Reading / Vitamina de letras</h1>
 
 Notas
 
