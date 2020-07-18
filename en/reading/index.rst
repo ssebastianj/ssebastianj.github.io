@@ -1,4 +1,4 @@
-.. title: Reading
+.. title: Reading / Vitamina de letras
 .. slug: reading
 .. date: 2020-01-24 09:10:00 UTC-03:00
 .. tags: reading, bookshelf, books
@@ -112,6 +112,7 @@ Bibliografía:
 -  `Candide <https://www.amazon.com/dp/B004UJGFKG>`__ - Voltaire
 -  `The Sorrows of Young Werther
    <https://www.amazon.com/dp/1950330419>`__ - Johann Wolfgang von Goethe
+-  `Fausto <https://www.amazon.com/dp/B01E1QTOQ4>`__ - Johann Wolfgang von Goethe
 -  `El Principito
    <https://www.amazon.com/dp/0156012197>`__ - Antoine de Saint-Exupéry
 -  `El Proceso <https://www.amazon.com/dp/1542419476>`__ - Franz Kafka
