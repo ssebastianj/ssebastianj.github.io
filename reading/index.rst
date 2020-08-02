@@ -219,6 +219,8 @@ Bibliografía:
    <https://www.amazon.com/dp/2070299732>`__ - Marguerite Yourcenar
 -  `El discipulado <https://www.amazon.com/dp/B01MD021DK>`__ - Hugo Mujica
 -  `1984 <https://www.amazon.com/dp/1328869334>`__ - George Orwell
+-  `H. P. Lovecraft: The Complete Collection
+   <https://www.amazon.com/dp/B0837SZPND>`__ - H. P. Lovecraft
 -  `The Stuff of Thought <https://www.amazon.com/dp/0670063274>`__ - Steven Pinker
 -  `Good Strategy Bad Strategy
    <https://www.amazon.com/dp/0307886239>`__ - Richard Rumelt
