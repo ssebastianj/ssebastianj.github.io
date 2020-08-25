@@ -103,7 +103,7 @@ Bibliografía:
    <https://www.amazon.com/dp/074347757X>`__ - William Shakespeare
 -  `La Odisea <https://www.amazon.com/dp/0393089053>`__ - Homero
 -  `La Ilíada <https://www.amazon.com/dp/0679410759>`__ - Homero
--  `Meditations: Gregory Hays’s New Translation
+-  `Meditations: A New Translation (Modern Library)
    <https://www.amazon.com/dp/B000FC1JAI>`__ - Marcus Aurelius
 -  `Edipo Rey <https://www.amazon.com/dp/1535119454>`__ - Sófocles
 -  `Vidas paralelas <https://www.amazon.com/dp/B00H8ZQ91Y>`__ - Plutarco
