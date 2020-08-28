@@ -103,7 +103,7 @@ Bibliografía:
    <https://www.amazon.com/dp/074347757X>`__ - William Shakespeare
 -  `La Odisea <https://www.amazon.com/dp/0393089053>`__ - Homero
 -  `La Ilíada <https://www.amazon.com/dp/0679410759>`__ - Homero
--  `Meditations: A New Translation (Modern Library)
+-  `Meditations: A New Translation (Translation by Gregory Hays)
    <https://www.amazon.com/dp/B000FC1JAI>`__ - Marcus Aurelius
 -  `Edipo Rey <https://www.amazon.com/dp/1535119454>`__ - Sófocles
 -  `Vidas paralelas <https://www.amazon.com/dp/B00H8ZQ91Y>`__ - Plutarco
@@ -114,7 +114,8 @@ Bibliografía:
 -  `Candide <https://www.amazon.com/dp/B004UJGFKG>`__ - Voltaire
 -  `The Sorrows of Young Werther
    <https://www.amazon.com/dp/1950330419>`__ - Johann Wolfgang von Goethe
--  `Fausto <https://www.amazon.com/dp/B01E1QTOQ4>`__ - Johann Wolfgang von Goethe
+-  `Fausto (Edición Bilingüe)
+   <https://www.amazon.com/dp/B01E1QTOQ4>`__ - Johann Wolfgang von Goethe
 -  `El Principito
    <https://www.amazon.com/dp/0156012197>`__ - Antoine de Saint-Exupéry
 -  `El Proceso <https://www.amazon.com/dp/1542419476>`__ - Franz Kafka
