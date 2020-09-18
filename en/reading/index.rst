@@ -105,6 +105,8 @@ Bibliografía:
 -  `La Ilíada <https://www.amazon.com/dp/0679410759>`__ - Homero
 -  `Meditations: A New Translation (Translation by Gregory Hays)
    <https://www.amazon.com/dp/B000FC1JAI>`__ - Marcus Aurelius
+-  `Letters from a Stoic (Translation by Robin Campbell)
+   <https://www.amazon.com/dp/B002RI99KK>`__ - Seneca
 -  `Edipo Rey <https://www.amazon.com/dp/1535119454>`__ - Sófocles
 -  `Vidas paralelas <https://www.amazon.com/dp/B00H8ZQ91Y>`__ - Plutarco
 -  `Aesop’s Fables <https://www.amazon.com/dp/B00L7YHVV4>`__ - Aesop
