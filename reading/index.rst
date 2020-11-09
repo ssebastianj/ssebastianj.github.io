@@ -230,3 +230,4 @@ Bibliografía:
 -  `The Stuff of Thought <https://www.amazon.com/dp/0670063274>`__ - Steven Pinker
 -  `Good Strategy Bad Strategy
    <https://www.amazon.com/dp/0307886239>`__ - Richard Rumelt
+-  `Los siete locos <https://www.amazon.com/dp/1548065129>`__ - Roberto Arlt
