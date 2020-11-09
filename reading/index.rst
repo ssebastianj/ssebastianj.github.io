@@ -220,6 +220,7 @@ Bibliografía:
 -  `La balanza de los Balek
    <https://www.amazon.com/dp/B01MD021DK>`__ - Heinrich Böll
 -  `Hussein el cojo <https://www.amazon.com/dp/9500353504>`__ - Roberto Arlt
+-  `Los siete locos <https://www.amazon.com/dp/1548065129>`__ - Roberto Arlt
 -  `Nuestra Señora de las golondrinas
    <https://www.amazon.com/dp/2070299732>`__ - Marguerite Yourcenar
 -  `El discipulado <https://www.amazon.com/dp/B01MD021DK>`__ - Hugo Mujica
@@ -230,4 +231,3 @@ Bibliografía:
 -  `The Stuff of Thought <https://www.amazon.com/dp/0670063274>`__ - Steven Pinker
 -  `Good Strategy Bad Strategy
    <https://www.amazon.com/dp/0307886239>`__ - Richard Rumelt
--  `Los siete locos <https://www.amazon.com/dp/1548065129>`__ - Roberto Arlt
