@@ -237,6 +237,7 @@ los 80</a> - Paul Johnson</p></li>
 <li><p><a class="reference external" href="https://www.amazon.com/dp/B0837SZPND">H. P. Lovecraft: The Complete Collection</a> - H. P. Lovecraft</p></li>
 <li><p><a class="reference external" href="https://www.amazon.com/dp/0670063274">The Stuff of Thought</a> - Steven Pinker</p></li>
 <li><p><a class="reference external" href="https://www.amazon.com/dp/0307886239">Good Strategy Bad Strategy</a> - Richard Rumelt</p></li>
+<li><p><a class="reference external" href="https://www.amazon.com/dp/B0090RVGW0">On Writing Well, 30th Anniversary Edition</a> - William Zinsser</p></li>
 </ul>
 </div>
     </div>
@@ -254,9 +255,7 @@ los 80</a> - Paul Johnson</p></li>
         <script src="../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

@@ -231,3 +231,5 @@ Bibliografía:
 -  `The Stuff of Thought <https://www.amazon.com/dp/0670063274>`__ - Steven Pinker
 -  `Good Strategy Bad Strategy
    <https://www.amazon.com/dp/0307886239>`__ - Richard Rumelt
+-  `On Writing Well, 30th Anniversary Edition
+   <https://www.amazon.com/dp/B0090RVGW0>`__ - William Zinsser
