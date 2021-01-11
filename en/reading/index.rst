@@ -1,4 +1,4 @@
-.. title: Reading / Vitamina de letras
+.. title: Lectura
 .. slug: reading
 .. date: 2020-01-24 09:10:00 UTC-03:00
 .. tags: reading, bookshelf, books
@@ -12,7 +12,7 @@
 
 .. raw:: html
 
-   <h1 id="reading-list-title" class="document-title">Reading / Vitamina de letras</h1>
+   <h1 id="reading-list-title" class="document-title">Lectura</h1>
 
 Notas
 
