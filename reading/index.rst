@@ -96,11 +96,6 @@ Bibliografía:
 -  `La Argentina <https://www.amazon.com/dp/9500418886>`__ - Ruy Díaz de Guzman
 -  `Tiempos Modernos - La historia del siglo XX desde 1917 hasta la década de
    los 80 <https://www.amazon.com/dp/0060151595>`__ - Paul Johnson
-- `Hamlet <https://www.amazon.com/dp/1980760071>`__ - William Shakespeare
-- `El Mercader de Venecia
-  <https://www.amazon.com/dp/1420953362>`__ - William Shakespeare
--  `La Doma de la Furia
-   <https://www.amazon.com/dp/074347757X>`__ - William Shakespeare
 -  `La Odisea <https://www.amazon.com/dp/0393089053>`__ - Homero
 -  `La Ilíada <https://www.amazon.com/dp/0679410759>`__ - Homero
 -  `Meditations: A New Translation (Translation by Gregory Hays)
@@ -112,6 +107,13 @@ Bibliografía:
 -  `Aesop’s Fables <https://www.amazon.com/dp/B00L7YHVV4>`__ - Aesop
 -  `Don Quijote de la Mancha
    <https://www.amazon.com/dp/0307475417>`__ - Miguel de Cervantes Saavedra
+- `Hamlet <https://www.amazon.com/dp/1980760071>`__ - William Shakespeare
+- `El Mercader de Venecia
+  <https://www.amazon.com/dp/1420953362>`__ - William Shakespeare
+-  `La Doma de la Furia
+   <https://www.amazon.com/dp/074347757X>`__ - William Shakespeare
+-  `The Count of Monte Cristo (Translation by Robin Buss)
+   <https://www.amazon.com/dp/B002RI9KL8>`__ - Alexandre Dumas
 -  `Walden <https://www.amazon.com/dp/0451532163>`__ - Henry David Thoreau
 -  `Candide <https://www.amazon.com/dp/B004UJGFKG>`__ - Voltaire
 -  `The Sorrows of Young Werther
