@@ -29,7 +29,7 @@ Bibliografía:
    <https://www.amazon.com/dp/0316491977>`__ - Tracy Kidder
 -  ★ `The Art of Doing Science and Engineering: Learning to Learn
    <https://www.amazon.com/dp/1732265178>`__ - Richard W. Hamming
--  `Refactoring (2nd Edition)
+-  `Refactoring: Improving the Design of Existing Code (2nd Edition)
    <https://www.amazon.com/dp/0134757599>`__ - Martin Fowler
 -  `Sistemas Operativos (5a. Edición)
    <https://www.amazon.com/dp/8420544620>`__ - William Stallings
