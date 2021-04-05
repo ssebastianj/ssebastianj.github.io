@@ -18,8 +18,6 @@ Notas
 
 - La siguiente es una lista parcial de bibliografía leída y/o
   consultada.
-- Algunos ítems de la lista fueron leídos de forma parcial (**LP**) y otros de
-  manera completa (**LC**) (*de tapa a tapa*).
 
 Bibliografía:
 
