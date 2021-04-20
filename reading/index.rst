@@ -29,6 +29,8 @@ Bibliografía:
    <https://www.amazon.com/dp/0316491977>`__ - Tracy Kidder
 -  `Refactoring: Improving the Design of Existing Code (2nd Edition)
    <https://www.amazon.com/dp/0134757599>`__ - Martin Fowler
+-  `Architecture Patterns with Python
+   <https://www.amazon.com/dp/1492052205>`__ - Harry J. W. Percival & Bob Gregory
 -  `Sistemas Operativos (5a. Edición)
    <https://www.amazon.com/dp/8420544620>`__ - William Stallings
 -  `Comunicaciones y redes de computadores (7a. Edición)
