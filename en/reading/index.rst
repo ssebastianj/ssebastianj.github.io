@@ -104,6 +104,8 @@ Bibliografía:
    <https://www.amazon.com/dp/B000FC1JAI>`__ - Marcus Aurelius
 -  `Letters from a Stoic (Translation by Robin Campbell)
    <https://www.amazon.com/dp/B002RI99KK>`__ - Seneca
+-  `Discourses and Selected Writings (Translation by Robert Dobbin)
+   <https://www.amazon.com/dp/B001FA0NSS>`__ - Epictetus
 -  `Edipo Rey <https://www.amazon.com/dp/1535119454>`__ - Sófocles
 -  `Vidas paralelas <https://www.amazon.com/dp/B00H8ZQ91Y>`__ - Plutarco
 -  `Aesop’s Fables <https://www.amazon.com/dp/B00L7YHVV4>`__ - Aesop
