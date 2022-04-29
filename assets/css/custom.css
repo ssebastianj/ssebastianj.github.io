@@ -1,0 +1,28 @@
+.panel .fa {
+    color: #464545;
+}
+
+.panel-footer a {
+    color: #024e90;
+    font-size: 90%;
+}
+
+#reading-list-title {
+    text-align: center;
+}
+
+a.nav-link {
+    color: rgba(0, 0, 0, 0.7) !important;
+}
+
+a.reference.external {
+    color: #002aff;
+}
+
+#footer {
+    color: #696868;
+}
+
+#footer a {
+    color: #002aff;
+}
